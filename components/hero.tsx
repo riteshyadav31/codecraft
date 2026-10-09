@@ -12,7 +12,7 @@ export function Hero() {
           {'// student coding club'}
         </p>
         <h1 className="text-balance text-4xl font-bold leading-tight tracking-tight md:text-5xl lg:text-6xl">
-          Learn to code. <span className="text-primary">Build what matters.</span>
+          Code Together. <span className="text-primary">Build the Future.</span>
         </h1>
         <p className="max-w-lg text-pretty text-lg leading-relaxed text-muted-foreground">
           {club.name} is where students learn programming, build real-world projects, and practice
