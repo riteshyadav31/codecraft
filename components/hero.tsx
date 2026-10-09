@@ -14,6 +14,9 @@ export function Hero() {
         <h1 className="text-balance text-4xl font-bold leading-tight tracking-tight md:text-5xl lg:text-6xl">
           Code Together. <span className="text-primary">Build the Future.</span>
         </h1>
+        <p className="-mt-2 text-pretty text-lg font-semibold text-primary md:text-xl">
+          Join Our Community of Future Developers.
+        </p>
         <p className="max-w-lg text-pretty text-lg leading-relaxed text-muted-foreground">
           {club.name} is where students learn programming, build real-world projects, and practice
           problem-solving together — no matter where you&apos;re starting from.
